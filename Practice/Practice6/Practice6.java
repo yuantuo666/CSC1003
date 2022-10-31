@@ -65,8 +65,6 @@ public class Practice6 {
      *    any of the elements in the array is true, and false otherwise. Write a static
      *    method all() that takes an array of boolean values as its argument and returns true if all
      *    of the elements in the array are true, and false otherwise
-     *
-     * Remark: there should be a typo in any() function description: If any element is true, then returns true.
      */
     public static boolean any(boolean[] a) {
         for (int i = 0; i < a.length; i++) {
