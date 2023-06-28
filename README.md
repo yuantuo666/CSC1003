@@ -1,6 +1,8 @@
 # CSC1003
 
-A repository to store some resources.
+A repository to store some resources about CSC1003: Introduction to Computer Science and Java Programming, 2022 Fall
+
+![](https://komarev.com/ghpvc/?username=CSC1003&label=VIEWS)
 
 ### Links
 
