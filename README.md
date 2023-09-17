@@ -8,7 +8,7 @@ A repository to store some resources about CSC1003: Introduction to Computer Sci
 
 [School Official OJ System](http://10.26.200.13/) (VPN required if not in campus)
 
-[Testing OJ System](http://43.139.19.72) (NOT Official)
+[Testing OJ System](https://oj2.nilou.top) (NOT Official)
 
 ### Practice
 
